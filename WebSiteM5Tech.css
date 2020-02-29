@@ -49,7 +49,7 @@ body
 {
     color: #62d901;
     font-size: 50px;
-    background-color: dimgray;
+    background-color: red;
     border-radius: 15px;
     -webkit-transition :all 0.3s ease;
     -o-transition : all 0.3s ease;
@@ -62,7 +62,7 @@ h2
 {
     margin-top: 200px;
     text-align: center;
-    color: #62d901;
+    color: red;
     font-size: 50px;
     
 }
@@ -78,7 +78,7 @@ h2
 #color_name
 {
     font-size: 30px;
-    color: #e6e07f;
+    color: red;
 }
 #moadPic 
 {
@@ -87,7 +87,7 @@ h2
     height: 100px;
     width: 100px;
     
-    box-shadow: 0 10px 20px rgba(98,217,1,.5);
+    box-shadow: 0 10px 20px red;
     border-radius: 100%;
     cursor: pointer;
     -webkit-transition :all 0.2s ease;
@@ -100,7 +100,7 @@ h2
 {
     float:none;
     
-    box-shadow: 0 10px 20px rgba(98,217,1,.5);
+    box-shadow: 0 10px 20px red;
     border-radius: 10%;
     -webkit-transition :all 0.3s ease;
     -o-transition : all 0.3s ease;
@@ -111,7 +111,7 @@ h2
 .mainContent p
 {
     
-    background-color:  rgba(10,10,10,.3) ;
+    background-color:  red;
     border-radius: 50px;
     font-size: 30px;
     text-align: center;
@@ -148,7 +148,7 @@ display:grid;
 }
 .socialM a:link, .socialM a:visited
 {
-    color: #62d901;
+    color: red;
     font-size: 30px;
     display: inline-block;
     text-decoration: none;
@@ -244,7 +244,7 @@ form label
 }
 #boutton
 {
-    background-color: #62d901;
+    background-color: red;
     color: white;
     text-align: center;
     margin-left: 35%;
@@ -274,7 +274,7 @@ iframe
 {
     position: relative;
     font-size: 500%; 
-    color: #62d901;
+    color: red;
     float: right;
     margin-right: 3%;
     animation: 1s bouncearrow  infinite;
